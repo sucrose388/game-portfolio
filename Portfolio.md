@@ -8,7 +8,7 @@ Game brainstorm 1:
 - has story
 - is about saving someone or something
 e.g. cat on tree, village on fire
-- kids can change main character gender
+- kids can change main character
 - has simple fighting abilities to defend the 'person-in-need-of-help'
 - 2D
 
