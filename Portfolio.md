@@ -1,8 +1,7 @@
 Portfolio
 
 ## Identifying and Defining:
-### From the Assessment Task...
-#### Identifying a need:
+### Identifying a need:
 Game brainstorm 1:
 - gives off magical vibes
 - has story
@@ -32,7 +31,7 @@ Problem Statement: Children at the ages of 4 to 10 is a good time to develop or 
 
 Skill Development: To make this game in Unity I will obtain help from the tutorial videos in the google classroom as well as Youtube and nearby advice.
 
-#### Requirements outline:
+### Requirements outline:
 Inputs: 
 In order to achieve moving the character, the user would have to use the arrow keys or WASD. Fighting would be possible by clicking on the mouse, the right click and left click will be different movements.
 
@@ -48,7 +47,7 @@ My game will not require network communication or multiplayer support.
 Storage:
 The game will store the game progress and user settings privately. If the user deletes the game then the progress will be lost.
 
-#### Functional requirements:
+### Functional requirements:
 User interaction:
 The user will interact with the character in the game by using keyboard controls and the mouse. Through this the user can move the character and fight the monsters and select options in the game. WASD and the arrow keys will be movement while mouse clicks will be fighting. 
 
@@ -64,7 +63,7 @@ In my game there will be levels that can be accessed after the user presses the 
 Saving and loading data:
 My game will save the game progress of the user and settings on the user's device. If the user deletes the game then the progress will be lost with it. 
 
-#### Non-functional requirements:
+### Non-functional requirements:
 Performance requirements:
 The game should load within a minute so that the user does not need to wait and response speed to the user inputs should be instant, without any lags in between. The inputs should be smooth and the interactions should also be instant.
 
@@ -83,7 +82,7 @@ My game will keep private user data stored to ensure the privacy of users. High 
 Reliability and availability:
 The system should be accessible all the time without error unless the user does not have a secure network connection which will possibly lead to data loss.
 
-#### Social and Ethical Issues:
+### Social and Ethical Issues:
 Meanings:
 Equity: fairness and justice
 Accessibility: the concept of whether a product or service can be used by everyone
@@ -102,3 +101,10 @@ My game could affect the users mental health by giving the user headaches. This 
 
 Cultural Sensitivities:
 There will be no content that could be offensive towards different cultures. No themes or symbols will be in the program that could be thought of as innappropriate or misunderstood from users of different cultural backgrounds. This is so that everyone, no matter the culture, can have fun by playing the game. 
+
+
+## Researching and Planning
+### PMI Table:
+![Alt text](image.png)
+
+### Psuedocode and Flowchart:
