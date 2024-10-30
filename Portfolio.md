@@ -105,6 +105,29 @@ There will be no content that could be offensive towards different cultures. No 
 
 ## Researching and Planning
 ### PMI Table:
-![Alt text](image.png)
+![Alt text](PMI_table.png)
 
 ### Psuedocode and Flowchart:
+Psuedocode: 
+1. Movement
+![Alt text](pseudocode_1.png)
+2. Fighting
+![Alt text](pseudocode_2.png)
+3. Feedback
+![Alt text](pseudocode_3.png)
+4. Level progression
+![Alt text](pseudocode_4.png)
+5. Data save
+![Alt text](pseudocode_5.png)
+
+Flow chart:
+1. Movement
+![Alt text](flowchart_1.png)
+2. Fighting
+![Alt text](image-7.png)
+3. Feedback
+![Alt text](image.png)
+4. Level progression
+![Alt text](image-1.png)
+5. Data save
+![Alt text](image-2.png)
